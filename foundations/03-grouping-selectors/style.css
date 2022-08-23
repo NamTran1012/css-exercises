@@ -1,0 +1,13 @@
+.black {
+    background-color: black; 
+    color: white;
+    border: 1px solid gray;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
+.tan {
+    background-color: rgb(255, 245, 167);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    border: 1px solid gray;
+}
